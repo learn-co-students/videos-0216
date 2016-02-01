@@ -64,7 +64,12 @@
     - Moving to the cloud
     my computer---|
                   |the cloud (my repository)------------------|
-                  git push
+                  git push origin master
+      - git push origin master
+        - origin -> remote address 
+        - master -> local branch that I am pushing up to the cloud
+        - git remote -v -> see the local branches that I am hooked up to 
+        
 
 
 
